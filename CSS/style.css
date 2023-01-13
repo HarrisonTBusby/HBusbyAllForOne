@@ -1,0 +1,126 @@
+.backgroundImg1{
+    background-image: url(../Assets/Background.jpg);
+    background-size: cover;
+}
+
+.backgroundImg2{
+    background-image: url(../Assets/Background2.jpg);
+    background-size: cover;
+}
+
+.backgroundImg3{
+    background-image: url(../Assets/Background3.jfif);
+    background-size: cover;
+}
+
+.backgroundImg4{
+    background-image: url(../Assets/Background4.jpg);
+    background-size: cover;
+}
+
+.textBackground{
+    background-color: black;
+    color: #00FFF0;
+    width: 600px;
+    height: 75px;
+    border-radius: 5px;
+    
+}
+
+.textBackground2{
+    background-color: black;
+    color: #00FFF0;
+    width: 600px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.textBackground3{
+    background-color: black;
+    color: #00FFF0;
+    width: 700px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.textBackground4{
+    background-color: black;
+    color: #00FFF0;
+    width: 700px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.textBackground5{
+    background-color: black;
+    color: #00FFF0;
+    width: 1200px;
+    height: 400x;
+    border-radius: 5px;
+}
+
+.textBackground6{
+    background-color: black;
+    color: #00FFF0;
+    width: 300px;
+    height: 400x;
+    border-radius: 5px;
+
+}
+
+
+.btnBackground1{
+    background-color: black;
+    color: #00FFF0;
+    width: 400px;
+    height: 120px;
+    font-size: 22px;
+    padding: 30px;
+}
+
+.btnBackground2{
+    background-color: black;
+    color: #00FFF0;
+    width: 200px;
+    height: 60px;
+    font-size: 22px;
+    
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.alignRight{
+    display: flex;
+    justify-content: end;
+}
+
+.paddingBTWN{
+    padding: 50px;
+}
+
+.paddingBottom{
+    padding-bottom: 200px;
+}
+
+.paddingBottom2{
+    padding-bottom: 150px;
+}
+
+.paddingBottom3{
+    padding-bottom: 50px;
+}
+
+.paddingBottom4{
+
+    padding-bottom: 500px;
+}
+
+.formWidth1{
+    height: 50px;
+    width: 400px;
+}
+
+
